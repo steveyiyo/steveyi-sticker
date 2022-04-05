@@ -1,8 +1,6 @@
-# 可愛勝勝
+# 小易貼圖使用條款 
 
-![image](https://user-images.githubusercontent.com/16719720/106279715-cfb04c80-6277-11eb-8a97-5a83218bd34b.png)
-
-我好可愛，請給我錢
+https://sticker.steveyi.net/
 
 
 ## Build Setup
