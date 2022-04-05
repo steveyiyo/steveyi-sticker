@@ -43,14 +43,20 @@
                     />
                     <video
                         v-if="message.videoSticker"
-                        :src="message.videoSticker"
                         loading="lazy"
                         autoplay
                         loop
                         muted
                         playsinline
                         style="max-width: 256px"
-                    />
+                    >
+                        <source
+                            v-for="({ src, type }, i) in message.videoSticker"
+                            :src="src"
+                            :type="type"
+                            :key="i"
+                        />
+                    </video>
                 </div>
             </div>
         </div>

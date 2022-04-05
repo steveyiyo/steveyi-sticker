@@ -27,7 +27,7 @@ export default [{
     time: '10:31'
 }, {
     user: 'steveyiyo',
-    videoSticker: `/sticker/2.webm`,
+    videoSticker: [{ type: 'video/mp4; codecs="hvc1"', src: `/sticker/2.mov` }, { type: 'video/webm', src: `/sticker/2.webm` }],
     time: '10:31'
 }, {
     user: 'steveyiyo',
