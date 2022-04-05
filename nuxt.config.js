@@ -34,7 +34,7 @@ export default {
       { property: 'twitter:image', content: img },
     ],
     link: [
-      { rel: 'icon', href: 'https://cute.gnehs.net/sticker/sticker.jpg' },
+      { rel: 'icon', href: 'https://sticker.steveyi.net/cute.png' },
       { rel: 'stylesheet', href: 'https://gnehs.github.io/ChatUI/css/ChatUI.css' },
       // Google fonts
       { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap' },
