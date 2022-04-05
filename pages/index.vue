@@ -32,7 +32,7 @@
                     <div class="text" v-if="message.text">
                         <p v-html="message.text" />
                     </div>
-                    <div class="meta" v-if="message.time">
+                    <div class="meta" v-if="message.time && !(message.sticker || message.videoSticker)">
                         <div class="item">{{ message.time }}</div>
                     </div>
                     <img
