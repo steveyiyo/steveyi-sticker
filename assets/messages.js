@@ -9,7 +9,7 @@ export default [{
 }, {
     user: 'steveyiyo',
     text: `Terms of use (TOS)<br>
-1. 禁止使用我的照片或影片製作 Deep Fake 等偽造圖片、影片。一但有先例，就很難處理了。<br>
+1. 禁止使用我的照片或影片製作 Deep Fake 等偽造圖片、影片。一旦有先例，就很難處理了。<br>
 2. 小易擁有權利請求刪除影像、影片或貼圖等包含小易肖像權的衍生物。`,
     time: '10:31'
 }, {
