@@ -14,7 +14,7 @@ export default [{
     time: '10:31'
 }, {
     user: 'steveyiyo',
-    text: `下面是小易的貼圖包`,
+    text: `下面是小易的貼圖包 ⬇️`,
     time: '10:31'
 }, {
     user: 'steveyiyo',
